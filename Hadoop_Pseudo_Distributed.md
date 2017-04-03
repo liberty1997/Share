@@ -187,4 +187,4 @@ $ chmod 600 ./authorized_keys # 更改文件权限
 * [Markdown指南](http://www.jianshu.com/p/1e402922ee32/)
 
 ***
-<center>&copy;[Liberty1997](https://github.com/liberty1997) ,04/03/2017 </center>
+<center> &copy; [Liberty1997](https://github.com/liberty1997) &nbsp; ,04/03/2017 </center>
