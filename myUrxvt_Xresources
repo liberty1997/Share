@@ -1,0 +1,82 @@
+!$HOME/.Xresources
+URxvt.preeditType:Root
+
+URxvt.inputMethod:fcitx
+
+URxvt.depth:32
+
+URxvt.background:[60]black
+URxvt.foreground:green
+URxvt.colorBD:Gray95
+URxvt.colorUL:Green
+URxvt.color1:Red2
+URxvt.color4:RoyalBlue
+URxvt.color5:Magenta2
+URxvt.color8:Gray50
+URxvt.color10:Green2
+URxvt.color12:DodgerBlue
+URxvt.color14:Cyan2
+URxvt.color15:Gray95
+
+URxvt.urlLauncher:chromium
+
+URxvt.scrollBar:True
+URxvt.scrollBar_right:True
+URxvt.scrollBar_floating:False
+URxvt.scrollstyle:plain
+
+URxvt.mouseWheelScrollPage:True
+URxvt.scrollTtyOutput:False
+URxvt.scrollWithBuffer:True
+URxvt.scrollTtyKeypress:True
+URxvt.secondaryScroll:True
+
+URxvt.cursorBlink:False
+URxvt.cursorColor:Green
+
+URxvt.cursorUnderline:True
+URxvt.saveLines:3000
+
+URxvt.borderLess:False
+
+!url
+!URxvt.perl-ext-common:default,tabbed,matcher
+!URxvt.matcher.button:1
+
+!tabs
+URxvt.tabbed.tab-fg:12
+URxvt.tabbed.tab-bg:0
+URxvt.tabbed.tabbar-fg:4
+
+!Shortcut
+!Shift+ xia new tab
+!Shift+ zuo go to left tab
+!Shift+ you go to right tab
+!Ctrl+ zuo move tab to the left
+!Ctrl+ you move tab to the right
+!Ctrl+D:  close tab
+
+URxvt.visualBell:False
+URxvt.inheritPixmap:True
+URxvt.tintCddolor:white
+URxvt.shading:40
+URxvt.fading:60
+!URxvt.transparency:255
+URxvt.transparent:true
+
+!!Border Color
+URxvt.fadeColor:White
+URxvt.colorIT:red
+URxvt.underlineColor:blue
+URxvt.multichar_encoding:utf-8
+URxvt.imLocale:en_US.UTF-8
+
+URxvt.pointerBlank:True
+*pointerColorBackground:#586e75
+*pointerColorForeground:#93a1a1
+URxvt*letterSpace:-2.8
+URxvt.internalBorder:3
+URxvt.lineSpace:0
+
+Xft.dpi:100
+URxvt.font:xft:SourceCode Pro:antialias=True:pixelsize=13,xft:WenQuanYi Zen Hei:pixelsize=13
