@@ -1,3 +1,5 @@
+// 对于长度为k的等差素数数列，
+// 它的公差能被小于k的所有素数整除。
 #include<iostream>
 #include<vector>
 using namespace std;
