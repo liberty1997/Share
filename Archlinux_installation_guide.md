@@ -137,4 +137,4 @@ pacman -S alsa-utils mesa xf86-video-intel xf86-input-synaptics
 
 ---
 
-<center>[&copy;Liberty](https://github.com/liberty)</center>
+<p align="center">&copy;[Liberty](https://github.com/liberty)</p>
