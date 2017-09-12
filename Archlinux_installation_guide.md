@@ -127,6 +127,7 @@ pacman -S alsa-utils mesa xf86-video-intel xf86-input-synaptics
 * 如果是装双系统，安装前注意看分区类型，mbr分区形式要求主分区+扩展分区不超过4个
 * 硬盘有RAID的，要先停止raid才能安装
 * 单系统一定要记得Bootable
+* 有个别时候，因为磁盘的原因或是win镜像文件的原因，os-prober会检测不到win系统，这时需要自己修改/boot/grub/grub.cfg中有关os-prober一节的配置，即手动添加win启动的一些配置信息(参见此md文件同目录下的grub.cfg)
 ---
 
 #### References
