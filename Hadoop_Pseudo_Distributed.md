@@ -60,7 +60,6 @@ $ chmod 600 ./authorized_keys # 更改文件权限
   export HADOOP_HOME=/usr/local/hadoop
   export HADOOP_INSTALL=$HADOOP_HOME
   export HADOOP_MAPRED_HOME=$HADOOP_HOME
-  export HADOOP_MAPRED_HOME=$HADOOP_HOME
   export HADOOP_COMMON_HOME=$HADOOP_HOME
   export HADOOP_HDFS_HOME=$HADOOP_HOME
   export YARN_HOME=$HADOOP_HOME
@@ -79,8 +78,8 @@ $ chmod 600 ./authorized_keys # 更改文件权限
    <configuration>
      <property>
        <name>hadoop.tmp.dir</name>
-       <value>file:/usr/local/hadoop/tmp</value>
-       <description>Abase for other temporary directories.</description>
+       <value>/usr/local/hadoop/tmp</value>
+       <description>A base for other temporary directories.</description>
      </property>
      <property>
        <name>fs.defaultFS</name>
@@ -99,11 +98,11 @@ $ chmod 600 ./authorized_keys # 更改文件权限
      </property>
      <property>
        <name>dfs.namenode.name.dir</name>
-       <value>file:/usr/local/hadoop/tmp/dfs/name</value>
+       <value>file://${hadoop.tmp.dir}/dfs/name</value>
      </property>
      <property>
        <name>dfs.datanode.data.dir</name>
-       <value>file:/usr/local/hadoop/tmp/dfs/data</value>
+       <value>file://${hadoop.tmp.dir}/dfs/data</value>
      </property>
    </configuration>
    ```
