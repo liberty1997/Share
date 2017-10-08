@@ -4,6 +4,7 @@
 * 先配置一个节点（Master），再配置其他节点（Slaves）
 
 </br>
+
 > #### 环境说明
 * Arch Linux 4.9.11 --- 三台虚拟机
 * Java version 1.7.0_131
