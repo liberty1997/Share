@@ -258,15 +258,15 @@ start-hbase.sh
 
 主节点：
 
-![hadoopmaster](/home/liberty/HADOOP_XML/hadoopmaster.png)
+![hadoopmaster](https://github.com/liberty1997/Share/blob/master/hadoopmaster.png)
 
 从节点1：
 
-![hadoopslave1](/home/liberty/HADOOP_XML/hadoopslave1.png)
+![hadoopslave1](https://github.com/liberty1997/Share/blob/master/hadoopslave1.png)
 
 从节点2：
 
-![hadoopslave2](/home/liberty/HADOOP_XML/hadoopslave2.png)
+![hadoopslave2](https://github.com/liberty1997/Share/blob/master/hadoopslave2.png)
 
 
 </br>
