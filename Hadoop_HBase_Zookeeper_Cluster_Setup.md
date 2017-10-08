@@ -242,6 +242,8 @@ server.3=hadoopslave2:2888:3888
 
 /home/hbase-1.2.6/conf/regionservers文件中的内容和hadoop的slaves文件一样。（所有从节点的主机名）
 
+将hdfs-site.xml文件复制到conf目录下，或者创建一个链接也可以。
+
 然后将hbase目录scp -r到各个从节点上。
 
 #### 7. 启动
