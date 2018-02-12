@@ -32,8 +32,8 @@ swapon /dev/sda3
 
 以下为本人常用国内源
 ```
-Server = http://mirrors.zju.edu.cn/archlinux/$repo/os/$arch
 Server = http://mirrors.tuna.tsinghua.edu.cn/archlinux/$repo/os/$arch
+Server = http://mirrors.zju.edu.cn/archlinux/$repo/os/$arch
 Server = http://mirrors.ustc.edu.cn/archlinux/$repo/os/$arch
 Server = http://ftp.yzu.edu.tw/Linux/archlinux/$repo/os/$arch
 Server = http://shadow.ind.ntou.edu.tw/archlinux/$repo/os/$arch
@@ -115,7 +115,7 @@ reboot
 #### 15. 安装驱动
 ```shell
 # 进入新系统如果连着网线还没网，先执行dhcpcd
-pacman -S alsa-utils mesa xf86-video-intel xf86-input-synaptics
+pacman -S alsa-utils mesa xf86-video-intel xf86-input-libinput
 ```
 #### 16. END
 
