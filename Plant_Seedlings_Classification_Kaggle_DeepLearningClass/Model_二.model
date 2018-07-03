@@ -1,0 +1,22 @@
+conv1:
+	5 5 32 3 3
+pool1:
+	3 3 2 2
+conv2:
+	5 5 64 3 3
+pool2:
+	3 3 2 2
+fc1:
+	256
+fc2:
+	256
+fc3:
+	12
+image size:
+	256
+batch size:
+	32
+keep_prob:
+	0.5
+step:
+	c_acc == 13 (acc == 1.0)

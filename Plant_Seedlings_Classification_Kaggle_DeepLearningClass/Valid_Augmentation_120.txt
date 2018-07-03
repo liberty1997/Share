@@ -1,0 +1,120 @@
+/mnt/windows_E/DeepLearningClass/Data/#Maize#e364ace75.png
+/mnt/windows_E/DeepLearningClass/Data/#Fat Hen#3ffc2f66d.png
+/mnt/windows_E/DeepLearningClass/Data/#Sugar beet#f7ac77334.png
+/mnt/windows_E/DeepLearningClass/Data/#Cleavers#d90adada5.png
+/mnt/windows_E/DeepLearningClass/Data/#Black-grass#6e027ec7d.png
+/mnt/windows_E/DeepLearningClass/Data/#Scentless Mayweed#bf5217e5b.png
+/mnt/windows_E/DeepLearningClass/Data/#Loose Silky-bent#da09ecea8.png
+/mnt/windows_E/DeepLearningClass/Data/#Scentless Mayweed#1f29d1c75.png
+/mnt/windows_E/DeepLearningClass/Data/#Fat Hen#066395555.png
+/mnt/windows_E/DeepLearningClass/Data/#Scentless Mayweed#a5976876c.png
+/mnt/windows_E/DeepLearningClass/Data/#Common Chickweed#97ab5baf0.png
+./DataAugmentation/#Black-grass#Aug_TR_54c6dbde4.png
+/mnt/windows_E/DeepLearningClass/Data/#Common Chickweed#7a7c2d6f8.png
+/mnt/windows_E/DeepLearningClass/Data/#Sugar beet#3fde34b6c.png
+./DataAugmentation/#Charlock#Aug_BR_7ed1aa0b2.png
+/mnt/windows_E/DeepLearningClass/Data/#Loose Silky-bent#8f12e398f.png
+/mnt/windows_E/DeepLearningClass/Data/#Fat Hen#c315f4c96.png
+/mnt/windows_E/DeepLearningClass/Data/#Small-flowered Cranesbill#1b71148aa.png
+/mnt/windows_E/DeepLearningClass/Data/#Common wheat#6d428b06d.png
+/mnt/windows_E/DeepLearningClass/Data/#Loose Silky-bent#2aab840e1.png
+/mnt/windows_E/DeepLearningClass/Data/#Loose Silky-bent#05067feb7.png
+/mnt/windows_E/DeepLearningClass/Data/#Sugar beet#26eff1e2a.png
+/mnt/windows_E/DeepLearningClass/Data/#Charlock#c0ae1e074.png
+/mnt/windows_E/DeepLearningClass/Data/#Common Chickweed#01eef6041.png
+/mnt/windows_E/DeepLearningClass/Data/#Fat Hen#84097b0b7.png
+/mnt/windows_E/DeepLearningClass/Data/#Loose Silky-bent#4a82673d7.png
+/mnt/windows_E/DeepLearningClass/Data/#Fat Hen#5298e390e.png
+./DataAugmentation/#Small-flowered Cranesbill#Aug_BR_0f2dbf503.png
+./DataAugmentation/#Sugar beet#Aug_TR_31e905346.png
+/mnt/windows_E/DeepLearningClass/Data/#Fat Hen#7e98e4aa6.png
+./DataAugmentation/#Common Chickweed#Aug_BR_930ebfb48.png
+/mnt/windows_E/DeepLearningClass/Data/#Common wheat#096ec46ec.png
+/mnt/windows_E/DeepLearningClass/Data/#Common Chickweed#0704bc02b.png
+/mnt/windows_E/DeepLearningClass/Data/#Fat Hen#9961b2091.png
+/mnt/windows_E/DeepLearningClass/Data/#Small-flowered Cranesbill#75ac0573e.png
+/mnt/windows_E/DeepLearningClass/Data/#Scentless Mayweed#3418f9acf.png
+/mnt/windows_E/DeepLearningClass/Data/#Common Chickweed#7c933aa92.png
+/mnt/windows_E/DeepLearningClass/Data/#Scentless Mayweed#2cbb15881.png
+/mnt/windows_E/DeepLearningClass/Data/#Scentless Mayweed#c609814b6.png
+/mnt/windows_E/DeepLearningClass/Data/#Common Chickweed#149f0527e.png
+/mnt/windows_E/DeepLearningClass/Data/#Charlock#75e838f3e.png
+/mnt/windows_E/DeepLearningClass/Data/#Maize#a37e7b7db.png
+/mnt/windows_E/DeepLearningClass/Data/#Scentless Mayweed#493815dcf.png
+/mnt/windows_E/DeepLearningClass/Data/#Scentless Mayweed#4076ae5ce.png
+./DataAugmentation/#Shepherds Purse#Aug_UD_5a3e2360a.png
+/mnt/windows_E/DeepLearningClass/Data/#Common Chickweed#16033c75c.png
+/mnt/windows_E/DeepLearningClass/Data/#Scentless Mayweed#3bf4f0c04.png
+/mnt/windows_E/DeepLearningClass/Data/#Charlock#ad5acca39.png
+/mnt/windows_E/DeepLearningClass/Data/#Loose Silky-bent#14bea63ea.png
+/mnt/windows_E/DeepLearningClass/Data/#Sugar beet#88036eac5.png
+/mnt/windows_E/DeepLearningClass/Data/#Charlock#13d67633c.png
+/mnt/windows_E/DeepLearningClass/Data/#Charlock#84e4249ae.png
+/mnt/windows_E/DeepLearningClass/Data/#Loose Silky-bent#30df8fb8d.png
+/mnt/windows_E/DeepLearningClass/Data/#Loose Silky-bent#64a4abfca.png
+/mnt/windows_E/DeepLearningClass/Data/#Common Chickweed#4db7bbfbf.png
+/mnt/windows_E/DeepLearningClass/Data/#Maize#2b7549816.png
+/mnt/windows_E/DeepLearningClass/Data/#Common wheat#17c9616c8.png
+/mnt/windows_E/DeepLearningClass/Data/#Small-flowered Cranesbill#e8a99d459.png
+/mnt/windows_E/DeepLearningClass/Data/#Shepherds Purse#179cedc9e.png
+/mnt/windows_E/DeepLearningClass/Data/#Black-grass#d090d6b25.png
+/mnt/windows_E/DeepLearningClass/Data/#Fat Hen#b3e1dda94.png
+/mnt/windows_E/DeepLearningClass/Data/#Fat Hen#d402cc5ca.png
+./DataAugmentation/#Fat Hen#Aug_LR_61f732692.png
+/mnt/windows_E/DeepLearningClass/Data/#Common Chickweed#e686b7cb2.png
+/mnt/windows_E/DeepLearningClass/Data/#Common Chickweed#0a2d20538.png
+/mnt/windows_E/DeepLearningClass/Data/#Common Chickweed#b48e67073.png
+/mnt/windows_E/DeepLearningClass/Data/#Loose Silky-bent#9bfa9d719.png
+./DataAugmentation/#Black-grass#Aug_UD_0183fdf68.png
+/mnt/windows_E/DeepLearningClass/Data/#Common wheat#143774101.png
+/mnt/windows_E/DeepLearningClass/Data/#Small-flowered Cranesbill#39070241e.png
+/mnt/windows_E/DeepLearningClass/Data/#Maize#80fa83273.png
+/mnt/windows_E/DeepLearningClass/Data/#Common wheat#3bb7f71ae.png
+./DataAugmentation/#Sugar beet#Aug_UD_73d86199e.png
+/mnt/windows_E/DeepLearningClass/Data/#Charlock#e6918f541.png
+/mnt/windows_E/DeepLearningClass/Data/#Scentless Mayweed#a5545b963.png
+/mnt/windows_E/DeepLearningClass/Data/#Maize#e66d87ad7.png
+./DataAugmentation/#Common wheat#Aug_BR_fc03ee09b.png
+/mnt/windows_E/DeepLearningClass/Data/#Loose Silky-bent#f3166a830.png
+/mnt/windows_E/DeepLearningClass/Data/#Loose Silky-bent#f5602e151.png
+/mnt/windows_E/DeepLearningClass/Data/#Charlock#f0ced8a62.png
+/mnt/windows_E/DeepLearningClass/Data/#Cleavers#dbb42229b.png
+/mnt/windows_E/DeepLearningClass/Data/#Shepherds Purse#eae41be4f.png
+/mnt/windows_E/DeepLearningClass/Data/#Common Chickweed#1265c4a42.png
+/mnt/windows_E/DeepLearningClass/Data/#Charlock#143f07e0d.png
+./DataAugmentation/#Cleavers#Aug_TR_d96c1e585.png
+/mnt/windows_E/DeepLearningClass/Data/#Common Chickweed#20a04ea79.png
+/mnt/windows_E/DeepLearningClass/Data/#Scentless Mayweed#3655d2892.png
+/mnt/windows_E/DeepLearningClass/Data/#Common Chickweed#1b32b40d8.png
+./DataAugmentation/#Fat Hen#Aug_UD_2160ec61c.png
+/mnt/windows_E/DeepLearningClass/Data/#Scentless Mayweed#5423cd5b5.png
+/mnt/windows_E/DeepLearningClass/Data/#Sugar beet#136bbcecf.png
+./DataAugmentation/#Charlock#Aug_BR_a48a9b71d.png
+/mnt/windows_E/DeepLearningClass/Data/#Shepherds Purse#6fe86aa3b.png
+/mnt/windows_E/DeepLearningClass/Data/#Common wheat#373a8d06b.png
+/mnt/windows_E/DeepLearningClass/Data/#Common Chickweed#1a5c28e0a.png
+/mnt/windows_E/DeepLearningClass/Data/#Small-flowered Cranesbill#fe623537a.png
+/mnt/windows_E/DeepLearningClass/Data/#Sugar beet#3109caad6.png
+/mnt/windows_E/DeepLearningClass/Data/#Common wheat#8d664b2b6.png
+/mnt/windows_E/DeepLearningClass/Data/#Charlock#3b2ae0151.png
+/mnt/windows_E/DeepLearningClass/Data/#Scentless Mayweed#b901006cb.png
+/mnt/windows_E/DeepLearningClass/Data/#Fat Hen#4058dd2cd.png
+/mnt/windows_E/DeepLearningClass/Data/#Charlock#85637dbdc.png
+/mnt/windows_E/DeepLearningClass/Data/#Scentless Mayweed#bd745fff9.png
+/mnt/windows_E/DeepLearningClass/Data/#Maize#9d1e59e00.png
+./DataAugmentation/#Scentless Mayweed#Aug_BR_a4daf7050.png
+/mnt/windows_E/DeepLearningClass/Data/#Scentless Mayweed#9f76f53bd.png
+/mnt/windows_E/DeepLearningClass/Data/#Loose Silky-bent#17309f0c2.png
+./DataAugmentation/#Shepherds Purse#Aug_UD_cc2c012f7.png
+./DataAugmentation/#Shepherds Purse#Aug_TR_8d9512864.png
+./DataAugmentation/#Common wheat#Aug_UD_cb0bc5c02.png
+/mnt/windows_E/DeepLearningClass/Data/#Sugar beet#b47d8d8f9.png
+/mnt/windows_E/DeepLearningClass/Data/#Charlock#1e808df13.png
+/mnt/windows_E/DeepLearningClass/Data/#Fat Hen#bfdeafadd.png
+/mnt/windows_E/DeepLearningClass/Data/#Cleavers#1526846f7.png
+/mnt/windows_E/DeepLearningClass/Data/#Cleavers#7da015f0a.png
+/mnt/windows_E/DeepLearningClass/Data/#Cleavers#ef4a36963.png
+/mnt/windows_E/DeepLearningClass/Data/#Cleavers#cc8f45811.png
+./DataAugmentation/#Cleavers#Aug_BR_61287f47a.png
+/mnt/windows_E/DeepLearningClass/Data/#Sugar beet#7c46a4746.png
+./DataAugmentation/#Scentless Mayweed#Aug_TR_7ab5ba33e.png
