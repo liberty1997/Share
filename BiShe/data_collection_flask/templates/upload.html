@@ -4,5 +4,11 @@
 {% block title %}Data Collection{% endblock %}
 
 {% block page_content %}
-{{ wtf.quick_form(form) }}
+<!-- 因为目前版本的Flask-WTF的MultipleFileField还未支持完全-->
+<!-- 所以这个多文件上传的表单不能用quick_form，得手动渲染！-->
+<form method="post" enctype="multipart/form-data">
+	{{ form.csrf_token }}
+	{{ form.photos.label }} {{ form.photos }}<br>
+	{{ form.submit }}<br>
+</form>
 {% endblock %}

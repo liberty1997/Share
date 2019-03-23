@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% import "bootstrap/wtf.html" as wtf %}
+
+{% block title %}Data Collection{% endblock %}
+
+{% block page_content %}
+<!-- 这个是FileField单文件上传的form，可以用quick_form渲染-->
+<!-- 目前版本(Flask==1.0.2 Flask-WTF==0.14.2)的Flask-WTF的MultipleFileField不能quick_form渲染，要手写-->
+{{ wtf.quick_form(form) }}
+{% endblock %}

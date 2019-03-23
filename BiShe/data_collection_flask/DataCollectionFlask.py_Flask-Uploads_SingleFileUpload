@@ -1,16 +1,15 @@
 import os, uuid
-from flask import Flask, request, session, render_template, redirect, flash
+from flask import Flask, request, render_template, redirect, flash
 from flask_bootstrap import Bootstrap
 from flask_moment import Moment
 from datetime import datetime
 from flask_wtf import FlaskForm
 from flask_wtf.file import FileRequired
-from wtforms import SubmitField, MultipleFileField, ValidationError
-from flask_wtf.csrf import validate_csrf
+from wtforms import FileField, SubmitField
 from wtforms.validators import DataRequired
+from flask_uploads import (UploadSet, configure_uploads, IMAGES)
 
 basedir = os.path.abspath(os.path.dirname(__file__))
-IMAGES = tuple('jpg jpe jpeg png gif svg bmp ico'.split())
 
 def RandomName(filename):
     suffix = os.path.splitext(filename)[1]
@@ -22,7 +21,9 @@ app = Flask(__name__)
 # 给Flask-WTF配置密钥，以保护用户会话
 app.config['SECRET_KEY'] = 'Vanellope & Liberty'
 # 配置上传文件保存目录
-app.config['UPLOAD_PATH'] = os.path.join(basedir, 'uploads')
+app.config['UPLOADED_PHOTOS_DEST'] = os.path.join(basedir, 'uploads')
+photos = UploadSet('photos', IMAGES)
+configure_uploads(app, photos)
 
 # 初始化各extension
 bootstrap = Bootstrap(app)
@@ -30,7 +31,7 @@ moment = Moment(app)
 
 # 定义表单类
 class UploadForm(FlaskForm):
-    photos = MultipleFileField('Choose Files', validators=[FileRequired()])
+    photo = FileField('Choose File', validators=[FileRequired()])
     submit = SubmitField('Submit')
 
 @app.errorhandler(404)
@@ -48,20 +49,8 @@ def index():
 @app.route('/upload', methods=['GET', 'POST'])
 def upload():
     form = UploadForm()
-    if request.method == 'POST':
-        try:
-            validate_csrf(form.csrf_token.data)
-        except ValidationError:
-            flash("CSRF token error")
-            return redirect(request.url)
-        count = 0
-        for _ in request.files.getlist('photos'):
-            if _.filename.split('.')[1] in IMAGES:
-                count += 1
-                filename = RandomName(_.filename)
-                _.save(os.path.join(app.config['UPLOAD_PATH'], filename))
-            else:
-                flash('Wrong file type!')
-        flash(str(count) + ' File(s) uploaded!')
+    if request.method == 'POST' and 'photo' in request.files:
+        filename = photos.save(request.files['photo'])
+        flash("Photo saved.")
         return redirect(request.url)
     return render_template('upload.html', form=form)
