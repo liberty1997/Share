@@ -1,0 +1,3 @@
+/home/vanellope/BiShe/OCR/Contrast_Brightness/CMakeFiles/rebuild_cache.dir
+/home/vanellope/BiShe/OCR/Contrast_Brightness/CMakeFiles/CB_exec.dir
+/home/vanellope/BiShe/OCR/Contrast_Brightness/CMakeFiles/edit_cache.dir

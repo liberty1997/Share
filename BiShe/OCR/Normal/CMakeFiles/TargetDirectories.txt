@@ -1,0 +1,3 @@
+/home/vanellope/BiShe/OCR/Normal/CMakeFiles/rebuild_cache.dir
+/home/vanellope/BiShe/OCR/Normal/CMakeFiles/main_exec.dir
+/home/vanellope/BiShe/OCR/Normal/CMakeFiles/edit_cache.dir
