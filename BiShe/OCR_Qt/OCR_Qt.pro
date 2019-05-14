@@ -22,6 +22,7 @@ SOURCES += \
     window.cpp
 
 HEADERS += \
+    untitled.h \
     window.h
 
 FORMS += \

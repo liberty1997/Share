@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>558</width>
-    <height>595</height>
+    <width>396</width>
+    <height>444</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -22,21 +22,21 @@
     </widget>
    </item>
    <item row="1" column="0">
-    <widget class="QPushButton" name="pushButton">
+    <widget class="QPushButton" name="buttonSelect">
      <property name="text">
       <string>Select file</string>
      </property>
     </widget>
    </item>
    <item row="1" column="1">
-    <widget class="QPushButton" name="pushButton_2">
+    <widget class="QPushButton" name="buttonDeskewing">
      <property name="text">
       <string>Deskewing</string>
      </property>
     </widget>
    </item>
    <item row="1" column="2">
-    <widget class="QPushButton" name="pushButton_3">
+    <widget class="QPushButton" name="buttonRun">
      <property name="text">
       <string>Run</string>
      </property>
@@ -53,7 +53,7 @@
     <widget class="QTextBrowser" name="textBrowser"/>
    </item>
    <item row="4" column="3">
-    <widget class="QPushButton" name="pushButton_4">
+    <widget class="QPushButton" name="buttonExit">
      <property name="text">
       <string>Exit</string>
      </property>
@@ -64,7 +64,7 @@
  <resources/>
  <connections>
   <connection>
-   <sender>pushButton_4</sender>
+   <sender>buttonExit</sender>
    <signal>clicked()</signal>
    <receiver>Form</receiver>
    <slot>close()</slot>

@@ -11,9 +11,9 @@ public:
 private:
     QStringList fileNames;
 private slots:
-    void on_pushButton_clicked();
-    void on_pushButton_2_clicked();
-    void on_pushButton_3_clicked();
+    void on_buttonSelect_clicked();
+    void on_buttonDeskewing_clicked();
+    void on_buttonRun_clicked();
 };
 
 #endif // WINDOW_H

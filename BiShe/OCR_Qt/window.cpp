@@ -15,7 +15,7 @@ Window::Window(QWidget * parent) :
 }
 
 // Select Files
-void Window::on_pushButton_clicked() {
+void Window::on_buttonSelect_clicked() {
     QFileDialog fileDialog;
     fileDialog.setWindowTitle("Select Files");
     fileDialog.setDirectory(".");
@@ -34,12 +34,8 @@ void Window::on_pushButton_clicked() {
 
 /*
  * Deskewing
- *
- * Probabilistic Hough Transform for line detection
- *
- * compute the mean angle of all the lines
  */
-void Window::on_pushButton_2_clicked() {
+void Window::on_buttonDeskewing_clicked() {
     if(fileNames.size() > 0) {
         cv::Mat img, binary;
         cv::Mat_<uchar>::iterator it;
@@ -101,7 +97,7 @@ void Window::on_pushButton_2_clicked() {
 }
 
 // Run Tesseract-OCR
-void Window::on_pushButton_3_clicked() {
+void Window::on_buttonRun_clicked() {
     if(fileNames.size() > 0) {
         setlocale(LC_ALL, "C"); // In Tesseract's baseapi.cpp, it requires "LC_ALL" to be "C" or "C.UTF-8".
                                 // Mine is "en_US.UTF-8".
