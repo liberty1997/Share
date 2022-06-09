@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>TestSparkleAutoUpdater</title>
+        <item>
+            <title>10000</title>
+            <pubDate>Thu, 09 Jun 2022 19:27:16 +0800</pubDate>
+            <sparkle:version>10000</sparkle:version>
+            <sparkle:shortVersionString>10000</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <enclosure url="TestSparkleAutoUpdater.app.zip" length="1631138" type="application/octet-stream" sparkle:edSignature="qjXT292HfrC016qVqXIgoF8D2sxTVBzj17bOA+vWn1kY2EnNk40iStuvOmy0Kla3LT/TLcj9o/VbD7nFC6qcDQ=="/>
+        </item>
+    </channel>
+</rss>
