@@ -3,6 +3,31 @@
     <channel>
         <title>TestSparkleAutoUpdater</title>
         <item>
+            <title>50000</title>
+            <pubDate>Fri, 10 Jun 2022 15:11:43 +0800</pubDate>
+            <sparkle:version>50000</sparkle:version>
+            <sparkle:shortVersionString>50000</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/liberty1997/Share/master/sparkleTest/TestSparkleAutoUpdater.app_50000.zip" length="39549894" type="application/octet-stream" sparkle:edSignature="w2VS5fe3bdOVTaMURi3MF/coIK3rGWf0FN6aIpZyeyTBH5uKeADLV3jwOV3im8halgwl6cSVsxoITGxGehWSAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/liberty1997/Share/master/sparkleTest/TestSparkleAutoUpdater50000-40000.delta" sparkle:deltaFrom="40000" length="734" type="application/octet-stream" sparkle:edSignature="HFmT6r5TzRGsKGBf3WxcUh4pWJCBrrUmZP+ekZqheJ4SiGtbRtUORPJodCNSwCPazkJXQ7ssAg4t4YUu6fICAA=="/>
+                <enclosure url="https://raw.githubusercontent.com/liberty1997/Share/master/sparkleTest/TestSparkleAutoUpdater50000-30000.delta" sparkle:deltaFrom="30000" length="21321978" type="application/octet-stream" sparkle:edSignature="JGIfpYy7q+DyNDNQbH8wBIRH5wRHfzVL571tHupmmWBzETEyZ1NL9D0q2XZwFqHClvm4ISfNluEzy3VRP6DSCA=="/>
+                <enclosure url="https://raw.githubusercontent.com/liberty1997/Share/master/sparkleTest/TestSparkleAutoUpdater50000-20000.delta" sparkle:deltaFrom="20000" length="21318282" type="application/octet-stream" sparkle:edSignature="ktLOmMyPQHLMhxfDdeSTCNvDgNytLZ87QOlgm4xSSz4ycNHTYbNndCW7vQkJs7mF7TNPV0ciE9s8vvykmKBPCw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>40000</title>
+            <pubDate>Fri, 10 Jun 2022 15:07:44 +0800</pubDate>
+            <sparkle:version>40000</sparkle:version>
+            <sparkle:shortVersionString>40000</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/liberty1997/Share/master/sparkleTest/TestSparkleAutoUpdater.app_40000.zip" length="39550045" type="application/octet-stream" sparkle:edSignature="e54gVEhd82IVF356t26xgUcFA91Fl243IlKTw+NzNRAVEd2kGZyV2ol35rc1elVwgMd9S6FlJN0FEn7HeoeYBQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/liberty1997/Share/master/sparkleTest/TestSparkleAutoUpdater40000-30000.delta" sparkle:deltaFrom="30000" length="21315666" type="application/octet-stream" sparkle:edSignature="208e8oFEJUxqzEM4wKHDIQN0+L9ObwggIH/dvRgVfkiBMJAUqmFi7RQV9r2mwwfSRipBkixeNl+lTQuRgtEsCw=="/>
+                <enclosure url="https://raw.githubusercontent.com/liberty1997/Share/master/sparkleTest/TestSparkleAutoUpdater40000-20000.delta" sparkle:deltaFrom="20000" length="21320066" type="application/octet-stream" sparkle:edSignature="sNnLXXyugk219lrg5D60zKqCHpOD4KN91e7Jj+yvhtkfu4N/MJDNWt8x9uyF7UEXLy1zVAluBUyI5zT1qxqvBg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>30000</title>
             <pubDate>Thu, 09 Jun 2022 20:28:18 +0800</pubDate>
             <sparkle:version>30000</sparkle:version>
@@ -27,7 +52,7 @@
             <sparkle:version>10000</sparkle:version>
             <sparkle:shortVersionString>10000</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-            <enclosure url="TestSparkleAutoUpdater.app.zip" length="1631138" type="application/octet-stream" sparkle:edSignature="qjXT292HfrC016qVqXIgoF8D2sxTVBzj17bOA+vWn1kY2EnNk40iStuvOmy0Kla3LT/TLcj9o/VbD7nFC6qcDQ=="/>
+            <enclosure url="https://raw.githubusercontent.com/liberty1997/Share/master/sparkleTest/TestSparkleAutoUpdater.app.zip" length="1631138" type="application/octet-stream" sparkle:edSignature="qjXT292HfrC016qVqXIgoF8D2sxTVBzj17bOA+vWn1kY2EnNk40iStuvOmy0Kla3LT/TLcj9o/VbD7nFC6qcDQ=="/>
         </item>
     </channel>
 </rss>
