@@ -8,9 +8,9 @@
             <sparkle:version>30000</sparkle:version>
             <sparkle:shortVersionString>30000</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/liberty1997/Share/blob/master/sparkleTest/TestSparkleAutoUpdater.app_30000.zip" length="1631205" type="application/octet-stream" sparkle:edSignature="FfvUKYGUB+mCt6G4awTLNrylG5vyVjOeWsGL2XxBz8XcrGjCza4QiMZ4SRw5vxqJW+24Kn5qO3rIwPmJMGjoCw=="/>
+            <enclosure url="https://raw.githubusercontent.com/liberty1997/Share/master/sparkleTest/TestSparkleAutoUpdater.app_30000.zip" length="1631205" type="application/octet-stream" sparkle:edSignature="FfvUKYGUB+mCt6G4awTLNrylG5vyVjOeWsGL2XxBz8XcrGjCza4QiMZ4SRw5vxqJW+24Kn5qO3rIwPmJMGjoCw=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/liberty1997/Share/blob/master/sparkleTest/TestSparkleAutoUpdater30000-20000.delta" sparkle:deltaFrom="20000" length="734" type="application/octet-stream" sparkle:edSignature="P4LuEgsdFLMHktauWHvAXHpLpidQxWKWOAYcMryK+GK6Y6Q673BzpFFo1oKnMgH0zSEqteX/AentVd6roc5KBQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/liberty1997/Share/master/sparkleTest/TestSparkleAutoUpdater30000-20000.delta" sparkle:deltaFrom="20000" length="734" type="application/octet-stream" sparkle:edSignature="P4LuEgsdFLMHktauWHvAXHpLpidQxWKWOAYcMryK+GK6Y6Q673BzpFFo1oKnMgH0zSEqteX/AentVd6roc5KBQ=="/>
             </sparkle:deltas>
         </item>
         <item>
@@ -19,7 +19,7 @@
             <sparkle:version>20000</sparkle:version>
             <sparkle:shortVersionString>20000</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/liberty1997/Share/blob/master/sparkleTest/TestSparkleAutoUpdater.app_20000.zip" length="1631357" type="application/octet-stream" sparkle:edSignature="9xZQYNB020+TBU1AOcHfSCZiCv/RWHb/yKNVla6czOCeezbVrsGHso9IFb/OntGBB2OOqYdWV1SCIt+nQBNpBA=="/>
+            <enclosure url="https://raw.githubusercontent.com/liberty1997/Share/master/sparkleTest/TestSparkleAutoUpdater.app_20000.zip" length="1631357" type="application/octet-stream" sparkle:edSignature="9xZQYNB020+TBU1AOcHfSCZiCv/RWHb/yKNVla6czOCeezbVrsGHso9IFb/OntGBB2OOqYdWV1SCIt+nQBNpBA=="/>
         </item>
         <item>
             <title>10000</title>
