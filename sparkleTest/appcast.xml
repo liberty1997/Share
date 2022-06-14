@@ -3,6 +3,21 @@
     <channel>
         <title>TestSparkleAutoUpdater</title>
         <item>
+            <title>60000</title>
+            <pubDate>Tue, 14 Jun 2022 20:49:43 +0800</pubDate>
+            <sparkle:version>60000</sparkle:version>
+            <sparkle:shortVersionString>60000</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:criticalUpdate sparkle:version="50000"></sparkle:criticalUpdate>
+            <enclosure url="https://raw.githubusercontent.com/liberty1997/Share/master/sparkleTest/TestSparkleAutoUpdater.app_60000.zip" length="39786515" type="application/octet-stream" sparkle:edSignature="eJ8wshkGv5l/qlANZSUtw9Ida8mVLen42WCND6ijXDLPk5GEE6xwJgiqOZaBjFHWVYctgI98xT8dDL4TuiIVBQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/liberty1997/Share/master/sparkleTest/TestSparkleAutoUpdater60000-50000.delta" sparkle:deltaFrom="50000" length="195390" type="application/octet-stream" sparkle:edSignature="a0LJJaO3ZN8rWefS32UvjpoRRB0cCJKhCn8zc33Z+JR6SqRtYNciHTLEx0r0GVikhUG1wowNIXsUBbl5EMAGBg=="/>
+                <enclosure url="https://raw.githubusercontent.com/liberty1997/Share/master/sparkleTest/TestSparkleAutoUpdater60000-40000.delta" sparkle:deltaFrom="40000" length="195386" type="application/octet-stream" sparkle:edSignature="FMpdymY2jZhyYL+GsCPPOBVxK2iVPPrPLo01nkGPO5R9SuhiZmKkA76prx4tak0j7U34gfuEsWS3WwIXDiyoDQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/liberty1997/Share/master/sparkleTest/TestSparkleAutoUpdater60000-30000.delta" sparkle:deltaFrom="30000" length="21517078" type="application/octet-stream" sparkle:edSignature="KjNtW3UKPXxD6MEPzp4g/RGyAPakdieOdDlTH40PXIsepWLb1R+852s1u5AMgoDKjxGyhw2zxATYXMTKtA4cAg=="/>
+                <enclosure url="https://raw.githubusercontent.com/liberty1997/Share/master/sparkleTest/TestSparkleAutoUpdater60000-20000.delta" sparkle:deltaFrom="20000" length="21514298" type="application/octet-stream" sparkle:edSignature="r00Ii5Y3g36pXeN+Ds1ib9CAfh50ySje8CD1iRHwt5VekfzeHUavWWVoFUlntGd8IxHJ6eAsZ84BOjXOhua+Dg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>50000</title>
             <pubDate>Fri, 10 Jun 2022 15:11:43 +0800</pubDate>
             <sparkle:version>50000</sparkle:version>
